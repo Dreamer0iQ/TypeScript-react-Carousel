@@ -1,4 +1,4 @@
-## Simple carousel/slider for React (adapted from my another repository)
+## Simple carousel/slider for React (adapted for React from my another repository)
 It was made like a component, so u just need to import it.
 
 ## Usage/Examples
